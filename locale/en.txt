@@ -5,7 +5,7 @@
 ### PDF
 PopupPDFBehaviour_BFD88EB4_A6DA_8042_41D0_4864C112B9CC.url = files/Djaka%20Tingkir%20(Balai%20Pustaka,%201963)_en.pdf
 PopupPDFBehaviour_B0A91E82_A649_8041_41CC_9AC437615FB3.url = files/Kisah%20Perdjalanan%20Si%20Apin%20(1959)_en.pdf
-PopupPDFBehaviour_B85108D1_A6F6_81C3_41D7_E8EE828C454E.url = files/Kisah%20Perdjalanan%20Si%20Apin%20(1959)_en.pdf
+PopupPDFBehaviour_86366D11_A6CA_8043_41DE_404F8B2D71F5.url = files/Kisah%20Perdjalanan%20Si%20Apin%20(1959)_en.pdf
 PopupPDFBehaviour_BC0348F3_A6B9_81C7_419D_59C189637F67.url = files/Pak%20Supi%20Kakek%20Pengungsi%20(1961)_en.pdf
 PopupPDFBehaviour_BF70C308_A6B9_8041_41C2_48F8C4D0E572.url = files/S.%20Roekiah%20-%20Teuku%20Hassan%20Djohan%20Pahlawan%20(1957)_en.pdf
 PopupPDFBehaviour_BF5A17D8_A6CA_8FC1_41D9_413F57989059.url = files/S.%20Rukiah%20Kertapati%20-%20Dongeng2%20Kutilang%20Djilid%20Ke%20I%20(1962)_en.pdf
@@ -157,8 +157,8 @@ album_B815C5A6_8DFD_715C_41DD_AE1C622FD34E.label = map
 album_B6AF25FE_8D97_70AC_41D5_33367AD659C8.label = text
 
 ### Video
-videolevel_879F05F4_A6D9_83C2_41DD_560806B5DB04.url = media/video_C98286EF_8CF5_70AC_41DF_1C926C2691A2_en.mp4
-videolevel_879F05F4_A6D9_83C2_41DD_560806B5DB04.posterURL = media/video_C98286EF_8CF5_70AC_41DF_1C926C2691A2_poster_en.jpg
+videolevel_87C0D541_A6B6_80C3_41DE_28B865332A6A.url = media/video_C98286EF_8CF5_70AC_41DF_1C926C2691A2_en.mp4
+videolevel_87C0D541_A6B6_80C3_41DE_28B865332A6A.posterURL = media/video_C98286EF_8CF5_70AC_41DF_1C926C2691A2_poster_en.jpg
 
 ### Video Subtitles
 
@@ -192,9 +192,6 @@ Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile.url = skin/Image_9511127C_9B79
 Image_B597390D_A649_8043_41A2_15B91A37366B.url = skin/Image_B597390D_A649_8043_41A2_15B91A37366B_en.png
 Image_B8124ADF_A6F9_81FF_41D1_A5EB8BA00BD6.url = skin/Image_B8124ADF_A6F9_81FF_41D1_A5EB8BA00BD6_en.png
 
-### Label
-Label_B81A679C_A6F9_8041_4171_78E61D7F0B3C.text = Label
-
 ### Multiline Text
 HTMLText_386DF8AA_17CC_0B05_41AE_D7BDB2970D08.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.42vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:8.42vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.36vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.36vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.3vh;font-family:'Oswald Regular';">Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae bibendum.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.64vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.64vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.64vh;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.64vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.64vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.64vh;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.64vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_245BDB6E_173C_0D1A_41AA_78BDF4EE53FF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>FLOORPLAN/</B></SPAN></SPAN></DIV></div>
@@ -226,7 +223,6 @@ Label_BF1C9A8A_A6D6_8041_41D8_C9A82BAFB5E8.toolTip = PDF
 Label_BFA58F7E_A6D9_80C1_41DB_FB036EF1370A.toolTip = PDF
 Label_BFB26E3C_A6DB_8041_41D2_706E9CD4932F.toolTip = PDF
 Label_BFDA3EB3_A6DA_8047_41DE_7E42293ADEC3.toolTip = PDF
-Label_B81A679C_A6F9_8041_4171_78E61D7F0B3C.toolTip = PDF
 
 ## Tour
 
